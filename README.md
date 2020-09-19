@@ -3,4 +3,4 @@
 
  Professor Gustavo Guanabara (Curso em video).
  
- Essa linha eu adicionei diretamente no site.
+ Essa linha eu adicionei diretamente no site do GitHub.
